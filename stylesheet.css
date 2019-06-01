@@ -1,0 +1,19 @@
+
+.header{
+  background-color: #86daeb;
+  height: 90px;
+  border-bottom: 1px solid black;
+}
+.header-logo{
+  color: white;
+  font-size: 30px;
+}
+.center {
+  background-color: #ffe4b5;
+  height:1000px;
+}
+.center p{
+  font-size: 18px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
